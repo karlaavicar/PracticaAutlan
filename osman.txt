@@ -1,2 +1,11 @@
-c="hola mundo"
-print (c)
+Osman Dionicio Luisjuan Mendoza
+=======================================
+
+Información general
+----------------------------
+Carrera: Teleinformatica
+Código: 216448672
+Semestra: 4
+
+Tabla de Materias
+.....................
