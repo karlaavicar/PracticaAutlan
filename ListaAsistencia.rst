@@ -12,6 +12,9 @@ Profesores
 Alumnos
 
     - ana lopez
+    -Luis Jorge Reynaga Pérez
     - kavilac 
     
 karla avila cardenas
+
+
