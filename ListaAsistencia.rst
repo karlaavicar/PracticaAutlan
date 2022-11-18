@@ -12,6 +12,7 @@ Profesores
 Alumnos
 
     - ana lopez
-    - kavilac 
+    - kavilac
+    - Gabriel Valle
     
 karla avila cardenas
