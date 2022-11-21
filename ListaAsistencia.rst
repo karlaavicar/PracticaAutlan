@@ -13,7 +13,7 @@ Alumnos
 
     - ana lopez
     - kavilac 
-    
+    - Gabriel Colmenares Rangel
 karla avila cardenas
 
 algo mas
